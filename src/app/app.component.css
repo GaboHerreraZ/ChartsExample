@@ -1,0 +1,6 @@
+.line {
+    height: 50px !important;
+    max-width: 1140px;
+}
+
+::ng-deep canvas {}
